@@ -1,6 +1,6 @@
-# Project Title
+# Assignment 1 Hello World
 
-One Paragraph of project description goes here.
+This project will show you how to run a python file that outputs "Hello World!"
 
 ## Getting Started
 
